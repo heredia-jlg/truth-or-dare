@@ -22,7 +22,7 @@ https://github.com/hofandre/group2project2
 
 
 
-#Feature contributions:
+# Feature contributions:
 
 -Implemented conditional rendering on voting buttons. User can only see buttons once he or she is logged in.
 
