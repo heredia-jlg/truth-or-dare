@@ -1,4 +1,4 @@
-# truth-or-dare
+# Truth or Dare
 
 https://github.com/hofandre/group2project2
 
@@ -22,7 +22,7 @@ https://github.com/hofandre/group2project2
 
 
 
-## Feature contributions:
+## Contributions:
 
 -Implemented conditional rendering on voting buttons. User can only see buttons once he or she is logged in.
 
