@@ -20,7 +20,9 @@ https://github.com/hofandre/group2project2
 
 -Operated collaboratively using Agile methodologies and tools including Git, Trello, Slack, and Zoom to effectively manage source code and tasks.
 
-Feature contributions:
+
+
+#Feature contributions:
 
 -Implemented conditional rendering on voting buttons. User can only see buttons once he or she is logged in.
 
